@@ -1,5 +1,7 @@
 # Getting Started
 
+Tryingspellcheck...
+
 ## Installation
 
 You can download the last release of Alire at the [GitHub repository](https://github.com/alire-project/alire/releases).
